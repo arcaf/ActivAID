@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<simlproject>
+  <name>ActivAID</name>
+  <directory>ActivAIDSIML</directory>
+  <botname>ActivAID</botname>
+  <personality>ActivAID</personality>
+  <author>PetaBytes</author>
+  <description>Help bot used for Astronics's ActivATE Test System</description>
+  <date>12:54:21 PM, Monday, March 06, 2017</date>
+  <notes></notes>
+</simlproject>

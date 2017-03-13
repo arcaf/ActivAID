@@ -19,3 +19,28 @@ c:\users\jonathan\documents\visual studio 2015\Projects\ActivAID\ActivAID\obj\Re
 c:\users\jonathan\documents\visual studio 2015\Projects\ActivAID\ActivAID\obj\Release\ActivAID.csproj.GenerateResource.Cache
 c:\users\jonathan\documents\visual studio 2015\Projects\ActivAID\ActivAID\obj\Release\ActivAID.exe
 c:\users\jonathan\documents\visual studio 2015\Projects\ActivAID\ActivAID\obj\Release\ActivAID.pdb
+C:\Users\arca\Desktop\ActivAID\ActivAID\bin\Release\ActivAID.exe.config
+C:\Users\arca\Desktop\ActivAID\ActivAID\bin\Release\ActivAID.exe
+C:\Users\arca\Desktop\ActivAID\ActivAID\bin\Release\ActivAID.pdb
+C:\Users\arca\Desktop\ActivAID\ActivAID\bin\Release\Jint.dll
+C:\Users\arca\Desktop\ActivAID\ActivAID\bin\Release\Newtonsoft.Json.dll
+C:\Users\arca\Desktop\ActivAID\ActivAID\bin\Release\Syn.Bot.dll
+C:\Users\arca\Desktop\ActivAID\ActivAID\bin\Release\Syn.Log.dll
+C:\Users\arca\Desktop\ActivAID\ActivAID\bin\Release\Syn.Neuro.dll
+C:\Users\arca\Desktop\ActivAID\ActivAID\bin\Release\Syn.VA.dll
+C:\Users\arca\Desktop\ActivAID\ActivAID\bin\Release\Syn.WordNet.dll
+C:\Users\arca\Desktop\ActivAID\ActivAID\bin\Release\Newtonsoft.Json.xml
+C:\Users\arca\Desktop\ActivAID\ActivAID\bin\Release\Syn.Bot.xml
+C:\Users\arca\Desktop\ActivAID\ActivAID\obj\Release\ActivAID.csprojResolveAssemblyReference.cache
+C:\Users\arca\Desktop\ActivAID\ActivAID\obj\Release\MainWindow.g.cs
+C:\Users\arca\Desktop\ActivAID\ActivAID\obj\Release\Settings.g.cs
+C:\Users\arca\Desktop\ActivAID\ActivAID\obj\Release\App.g.cs
+C:\Users\arca\Desktop\ActivAID\ActivAID\obj\Release\ActivAID_MarkupCompile.cache
+C:\Users\arca\Desktop\ActivAID\ActivAID\obj\Release\ActivAID_MarkupCompile.lref
+C:\Users\arca\Desktop\ActivAID\ActivAID\obj\Release\MainWindow.baml
+C:\Users\arca\Desktop\ActivAID\ActivAID\obj\Release\Settings.baml
+C:\Users\arca\Desktop\ActivAID\ActivAID\obj\Release\ActivAID.g.resources
+C:\Users\arca\Desktop\ActivAID\ActivAID\obj\Release\ActivAID.Properties.Resources.resources
+C:\Users\arca\Desktop\ActivAID\ActivAID\obj\Release\ActivAID.csproj.GenerateResource.Cache
+C:\Users\arca\Desktop\ActivAID\ActivAID\obj\Release\ActivAID.exe
+C:\Users\arca\Desktop\ActivAID\ActivAID\obj\Release\ActivAID.pdb
